@@ -1,0 +1,21 @@
+body {
+    background-color: darkgoldenrod;
+    font-family: "Chivo", sans-serif;
+    font-optical-sizing: auto;
+}
+
+h1 {
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;     
+}
+
+h2 {
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 600;
+    font-style: normal;     
+}
+
+.bold {
+    font-weight: 700;
+}
